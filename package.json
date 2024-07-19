@@ -39,7 +39,7 @@
   },
   "dependencies": {
     "object-assign": "^4.1.1",
-    "quill": "^1.3.7"
+    "quill": "github:youyou2012/quill-chex#1.3.9_test"
   },
   "devDependencies": {
     "autoprefixer": "^6.7.2",
